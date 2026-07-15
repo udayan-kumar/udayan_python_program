@@ -24,4 +24,3 @@ print(f"my age is {age}")
 print(f"book price is {price}")
 print(f"are you a student {is_student}")
 print(f"is this item for sell {sale}")
-15:14
