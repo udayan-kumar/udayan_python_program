@@ -1,0 +1,17 @@
+# INDEXING --> ACCESSING ELEMENTS OF A SEQUENCES USING [] (INDEXING OPERATOR)
+#       [START : END : STEP]
+
+number = "6205105237"
+
+# FOR SPECIFIC POSITION
+print(number[0])
+
+# FOR PRINTING FROM TO UPTO
+print(number[:4])
+print(number[1:4])
+
+# FOR PRINTING SPECIFIC POSITION FROM LAST
+print(number[-1])
+
+# FOR PRINTING AFTER FIXED STEP
+print(number[::2])
