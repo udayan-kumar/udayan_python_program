@@ -22,4 +22,3 @@ name = "udayan singh"
 for char in name:
     print(char , end= " ")
 
-4:37
