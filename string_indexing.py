@@ -15,3 +15,4 @@ print(number[-1])
 
 # FOR PRINTING AFTER FIXED STEP
 print(number[::2])
+
