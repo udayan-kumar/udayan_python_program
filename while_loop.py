@@ -6,4 +6,4 @@ while num < 1 or num > 10:
     print(f"{num} is not valid")
     num = int(input("enter your number: "))
 
-    print(f"your number is: {num}")
+print(f"your number is: {num}")
