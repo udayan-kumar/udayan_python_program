@@ -7,3 +7,8 @@ from math import pi
 # print(math.pi)
 # print(m.pi)
 print(pi)
+
+
+#  FOR GETING ACCESS ANOTHER FILE NAME S example.py WE USE
+
+# import example
